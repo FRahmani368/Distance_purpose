@@ -1,0 +1,36 @@
+========================================================================
+ US Dams
+------------------------------------------------------------------------
+ https://koordinates.com/layer/22810-us-dams/
+========================================================================
+From: US Bureau of Transportation Statistics (BTS)
+
+Description:
+  This map layer portrays major dams of the United States, including Puerto Rico
+  and the U.S. Virgin Islands. The map layer was created by extracting dams 50
+  feet or more in height, or with a normal storage capacity of 5,000 acre-feet or
+  more, or with a maximum storage capacity of 25,000 acre-feet or more, from the
+  79,777 dams in the U.S. Army Corps of Engineers National Inventory of Dams. This
+  is a replacement for the April 1994 map layer.
+  
+  This layer is sourced from
+  [maps.bts.dot.gov](http://maps.bts.dot.gov/services/rest/services/appServices/HydrographyPoints/MapServer?f=json).
+
+Region: North America
+
+Projection: WGS 84
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 01 Sep 2016
+- reprojected from WGS 84 / Pseudo-Mercator to WGS 84
+- converted by Koordinates to Shapefile on 05 Feb 2021 (reference #2106930)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
